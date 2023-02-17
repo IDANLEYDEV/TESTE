@@ -1,7 +1,5 @@
-git status
-git add
-git commit
-git checkout
-git merge
-git pull
-git remote
+<HTML>
+<HEAD><TITLE>ATIVIDADE VERSIONAMENTO</TITLE></HEAD>
+<BODY>
+<H1>VERSIONAMENTO</H1>
+</BODY>
